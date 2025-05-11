@@ -1,0 +1,82 @@
+[
+    {
+        "fluency_score": 3,
+        "fluency_justification": "The summary contains some grammatical errors and awkward phrasing, making it somewhat difficult to read.",
+        "factuality_score": 4,
+        "factuality_justification": "The summary accurately reflects the key concepts related to axino dark matter and the gamma-ray line, although it lacks some specificity.",
+        "coverage_score": 4,
+        "coverage_justification": "The summary addresses the main problem and method but does not fully elaborate on the key findings, particularly regarding constraints and parameters mentioned in the actual summary."
+    },
+    {
+        "fluency_score": 4,
+        "fluency_justification": "The summary is mostly readable and grammatically correct, although some phrases are slightly redundant and could be streamlined.",
+        "factuality_score": 4,
+        "factuality_justification": "The summary accurately reflects the main points of the original text, though it lacks some specific details like the reference to the Morales-Ramis-Sim criterion.",
+        "coverage_score": 3,
+        "coverage_justification": "The summary addresses the main problem and method but misses some key findings and specific applications mentioned in the original text."
+    },
+    {
+        "fluency_score": 3,
+        "fluency_justification": "The summary is somewhat readable, but it has issues with sentence structure and punctuation, making it less fluent.",
+        "factuality_score": 2,
+        "factuality_justification": "The summary inaccurately describes the method and lacks important details about the experiment's findings and conditions.",
+        "coverage_score": 2,
+        "coverage_justification": "The summary fails to adequately cover the main problem, method, and key findings, focusing instead on a specific model without mentioning significant experimental results."
+    },
+    {
+        "fluency_score": 2,
+        "fluency_justification": "The summary is poorly structured and contains repetitive phrases, making it difficult to read and follow.",
+        "factuality_score": 3,
+        "factuality_justification": "While some statements about the charge collection properties and ionization measurements are present, there are inaccuracies in the description of methods and findings, such as the vague reference to a 'smeared vavilov-distribution' which is not supported by the original text.",
+        "coverage_score": 2,
+        "coverage_justification": "The summary fails to effectively capture the main problem, method, and key findings, missing critical details about polarisation effects and the variation in charge collection efficiency."
+    },
+    {
+        "fluency_score": 1,
+        "fluency_justification": "The summary is mostly incomprehensible due to repetitive phrases and lacks coherent structure.",
+        "factuality_score": 1,
+        "factuality_justification": "The summary fails to provide any accurate information and instead consists of nonsensical repetitions.",
+        "coverage_score": 1,
+        "coverage_justification": "The summary does not cover any of the main problem, method, or key findings due to its incoherent nature."
+    },
+    {
+        "fluency_score": 1,
+        "fluency_justification": "The summary is poorly written, with numerous grammatical errors and awkward phrasing that make it difficult to read.",
+        "factuality_score": 1,
+        "factuality_justification": "The summary does not accurately reflect the source text, as it incorrectly focuses on the 'fflo state' without mentioning the actual subject of the research on transport properties and peak effect.",
+        "coverage_score": 1,
+        "coverage_justification": "The summary fails to include the main problem, method, and key findings of the original study, instead repeating a vague term without context."
+    },
+    {
+        "fluency_score": 3,
+        "fluency_justification": "The summary is mostly readable but contains some awkward phrasing and repetition that affects overall fluency.",
+        "factuality_score": 3,
+        "factuality_justification": "The summary accurately mentions the X-ray emission from GRO J1744-28 but lacks some specificity regarding the centrifugal barrier effects mentioned in the actual summary.",
+        "coverage_score": 2,
+        "coverage_justification": "The summary fails to address the main problem regarding the centrifugal barrier and does not clearly outline the method or key findings related to it."
+    },
+    {
+        "fluency_score": 3,
+        "fluency_justification": "The summary is generally readable but has some awkward phrasing and incomplete sentences, which detracts from its overall fluency.",
+        "factuality_score": 3,
+        "factuality_justification": "The summary contains some correct concepts related to the study of magnetic field in turbulence, but it lacks clarity in some statements, which may lead to misinterpretation of the findings.",
+        "coverage_score": 2,
+        "coverage_justification": "The summary fails to effectively cover the main problem, method, and key findings, as it does not clearly articulate the specific results and scales discussed in the actual summary."
+    },
+    {
+        "fluency_score": 3,
+        "fluency_justification": "The summary contains some grammatical errors and awkward phrasings that make it less readable, such as repetitive phrases and unclear sentence structure.",
+        "factuality_score": 3,
+        "factuality_justification": "While the summary touches on key concepts of the Kondo effect, it lacks precision and clarity in describing the specifics of the research and its findings, leading to some ambiguity.",
+        "coverage_score": 3,
+        "coverage_justification": "The summary includes elements of the problem and method but fails to clearly present the key findings and implications of the research, which limits its overall completeness."
+    },
+    {
+        "fluency_score": 2,
+        "fluency_justification": "The summary has several grammatical issues and awkward phrasing, making it difficult to read smoothly.",
+        "factuality_score": 2,
+        "factuality_justification": "The summary misrepresents the actual content, particularly by overly focusing on cosmological properties which are not mentioned in the source text.",
+        "coverage_score": 1,
+        "coverage_justification": "The summary fails to address the main problem, method, and key findings present in the actual summary, leading to a lack of comprehensive coverage."
+    }
+]
